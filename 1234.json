@@ -1,8 +1,0 @@
-{"time":"2022-03-05 22:06:13","user_id":"bob","board_name":"game","action":"insert"}
-{"time":"2022-03-05 22:06:14","user_id":"jake","board_name":"free","action":"delete"}
-{"time":"2022-03-05 22:06:15","user_id":"jake","board_name":"stock","action":"delete"}
-{"time":"2022-03-05 22:06:16","user_id":"jake","board_name":"free","action":"insert"}
-{"time":"2022-03-05 22:06:17","user_id":"bob","board_name":"game","action":"insert"}
-{"time":"2022-03-05 22:06:18","user_id":"mike","board_name":"qna","action":"delete"}
-{"time":"2022-03-05 22:06:19","user_id":"alica","board_name":"qna","action":"insert"}
-
